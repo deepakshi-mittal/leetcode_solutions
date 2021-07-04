@@ -1,0 +1,1 @@
+Idea is to store parent pointers of both node and return the first common parent pointer encountered
