@@ -2,6 +2,6 @@
 **Note:** My solutions are in python
 
 
-| **Number**      | **Problem**     |  **Solution**    | **Tags**        |
+| **Number**      | **Problem**     |  **Solution**    | **Tags**        | **Note** |
 | ----------- | ----------- |  ----------- | ----------- |
-|  1650  | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/lowestCommonAncestorBT3_1650.py)      | Tree, Hash Table, Recursion, Binary Tree
+|  1650  | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/lowestCommonAncestorBT3_1650.py)      | Tree, Hash Table, Recursion, Binary Tree | [Additional Note](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/lowestCommonAncestorBT3_1650Note.txt) |
