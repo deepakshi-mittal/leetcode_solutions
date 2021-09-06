@@ -6,6 +6,7 @@
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/twoSum_1.py)      | Hash Table, Complement, Array | [Note]
 |  128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/LongestConsecutiveSequence128.py)      | Hash Table, Union Find, Array | [Note]
+|  200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/200NumberOfIslands.py)      | Grapgh, DFS, BFS | [Note]
 |  269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/AlienDictionary269.py)      | Array, String, DFS, BFS, Graph, Toplogical Sort | [Note]
 |  298  | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/BinaryTreeLongestConsecutiveSequence298.py)      | Binary Tree, DFS | [Note]
 |  542  | [01 Matrix](https://leetcode.com/problems/01-matrix/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/01-matrix542.py)      | Array, Matrix, BFS, DP | [Note]
