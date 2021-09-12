@@ -6,6 +6,7 @@
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/twoSum_1.py)      | Hash Table, Complement, Array | [Note]
 |  128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/LongestConsecutiveSequence128.py)      | Hash Table, Union Find, Array | [Note]
+|  169  | [Majority Element](https://leetcode.com/problems/majority-element/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/MajorityElement169.py)      | Array, Sorting, Hash | [Note]
 |  200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/200NumberOfIslands.py)      | Graph, DFS, BFS | [Note]
 |  207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/207CourseSchedule.py)      | Graph, DFS, Topological Sort, BFS | [Note]
 |  261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/261GraphValidTree.py)      | Graph, DFS | [Note]
