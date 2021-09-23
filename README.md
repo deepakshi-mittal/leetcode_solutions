@@ -5,6 +5,7 @@
 | **Number**      | **Problem**     |  **Solution**    | **Tags**        |  **Note**   |
 | ----------- | ----------- |  ----------- | ----------- | ----------- |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/twoSum_1.py)      | Hash Table, Complement, Array | [Note]
+|  79  | [Word Search](https://leetcode.com/problems/word-search/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/WordSearch79.py)      | Backtracking, DFS | [Note]
 |  128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/LongestConsecutiveSequence128.py)      | Hash Table, Union Find, Array | [Note]
 |  169  | [Majority Element](https://leetcode.com/problems/majority-element/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/MajorityElement169.py)      | Array, Sorting, Hash | [Note]
 |  200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)      | [Solution](https://github.com/deepakshi-mittal/leetcode_solutions/blob/main/Solutions/200NumberOfIslands.py)      | Graph, DFS, BFS | [Note]
